@@ -1,0 +1,17 @@
+# NEVER commit an unencrypted build. Only index.html belongs in this repo.
+board.html
+.board-pw
+nfl-line-board.html
+preview.html
+test-gated.html
+*.part
+games.js
+snapshot.json
+build_gated.py
+*.png
+auto-push.sh
+setup.sh
+.auto-push.log
+com.mike.nfl-autopush.plist
+.auto-push.out
+.auto-push.err
